@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mCoffee"
+        android:icon="@drawable/coffezinho"
+        android:title="Café" />
+    <item
+        android:id="@+id/mMuffin"
+        android:icon="@drawable/cupkimg"
+        android:title="Cupcake" />
+    <item
+        android:id="@+id/mTea"
+        android:icon="@drawable/chaimg"
+        android:title="Chá" />
+    <item
+        android:id="@+id/mDonuts"
+        android:icon="@drawable/imgdonuts"
+        android:title="Donuts" />
+</menu>
