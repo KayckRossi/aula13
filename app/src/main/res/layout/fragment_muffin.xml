@@ -11,8 +11,8 @@
 
     <com.google.android.material.card.MaterialCardView
         android:layout_width="350dp"
-        android:layout_height="500dp"
-        android:backgroundTint="#D6A368"
+        android:layout_height="420dp"
+        android:backgroundTint="#DECAA9"
         app:cardCornerRadius="20dp">
 
         <LinearLayout
@@ -25,7 +25,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="20sp"
-                android:text="Cookies"
+                android:text="Cupcakes"
                 android:textColor="#000000"
                 android:textSize="30sp"
                 android:textStyle="bold" />
@@ -36,21 +36,21 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="10dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/cupcake_n" />
+                android:src="@drawable/cartcupcake" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="20sp"
-                android:text="O cookie pode ser classificado como um biscoito e um bolinho consistente. Ele é firme por fora e bem macio por dentro."
-                android:textColor="#000" />
+                android:textColor="#000"
+                android:text="Um delicioso cupcake que você ira amar"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
-                android:layout_marginTop="30dp"
+                android:layout_marginTop="3dp"
                 android:layout_marginRight="10dp"
                 android:orientation="horizontal">
 

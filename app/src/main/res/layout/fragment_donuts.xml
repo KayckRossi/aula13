@@ -11,8 +11,8 @@
 
     <com.google.android.material.card.MaterialCardView
         android:layout_width="350dp"
-        android:layout_height="500dp"
-        android:backgroundTint="#BCB550"
+        android:layout_height="420dp"
+        android:backgroundTint="#DECAA9"
         app:cardCornerRadius="20dp">
 
         <LinearLayout
@@ -36,21 +36,21 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="10dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/cookies_n" />
+                android:src="@drawable/cartdanuts" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="20sp"
-                android:text="Uma massa macia e fofinha, molhadinha no ponto certo, generosamente recheada com um creme bavariano de alta qualidade fazem desse o melhor Donuts do mundo!"
+                android:text="O melhor Donuts da cidade para alegrar seu dia"
                 android:textColor="#000" />
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
-                android:layout_marginTop="30dp"
+                android:layout_marginTop="0dp"
                 android:layout_marginRight="10dp"
                 android:orientation="horizontal">
 
@@ -67,7 +67,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5sp"
                     android:layout_marginTop="5sp"
-                    android:text="9.0"
+                    android:text="9.7"
                     android:textColor="#000"
                     android:textSize="18sp"
                     android:textStyle="bold" />

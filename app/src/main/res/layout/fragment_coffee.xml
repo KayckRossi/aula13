@@ -11,7 +11,7 @@
 
     <com.google.android.material.card.MaterialCardView
         android:layout_width="350dp"
-        android:layout_height="500dp"
+        android:layout_height="420dp"
         android:backgroundTint="#DECAA9"
         app:cardCornerRadius="20dp">
 
@@ -36,21 +36,21 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="10dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/cafe" />
+                android:src="@drawable/cartcafe" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="20sp"
-                android:text="O café é uma bebida produzida a partir dos grãos torrados do fruto do cafeeiro"
+                android:text="O café é uma forma deliciosa de animar seus dias"
                 android:textColor="#000" />
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
-                android:layout_marginTop="30dp"
+                android:layout_marginTop="0dp"
                 android:layout_marginRight="10dp"
                 android:orientation="horizontal">
 
@@ -67,7 +67,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5sp"
                     android:layout_marginTop="5sp"
-                    android:text="9.5"
+                    android:text="8.3"
                     android:textColor="#000"
                     android:textSize="18sp"
                     android:textStyle="bold" />

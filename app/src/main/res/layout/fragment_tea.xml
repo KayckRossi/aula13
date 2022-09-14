@@ -11,8 +11,8 @@
 
     <com.google.android.material.card.MaterialCardView
         android:layout_width="350dp"
-        android:layout_height="500dp"
-        android:backgroundTint="#EC8D3C"
+        android:layout_height="420dp"
+        android:backgroundTint="#DECAA9"
         app:cardCornerRadius="20dp">
 
         <LinearLayout
@@ -25,7 +25,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="20sp"
-                android:text="Tea"
+                android:text="Chá"
                 android:textColor="#000000"
                 android:textSize="30sp"
                 android:textStyle="bold" />
@@ -36,21 +36,21 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="10dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/tea_n" />
+                android:src="@drawable/catcha" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="20sp"
-                android:text="O chá é uma bebida preparada através da infusão de folhas, flores, raízes de planta do chá (Camellia sinensis), geralmente preparada com água quente."
+                android:text="Chá maravilhoso, com sabores que ira relaxar sua semana"
                 android:textColor="#000" />
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
-                android:layout_marginTop="30dp"
+                android:layout_marginTop="3dp"
                 android:layout_marginRight="10dp"
                 android:orientation="horizontal">
 
